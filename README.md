@@ -24,4 +24,13 @@ This is a modern, responsive calculator app built with Python's Tkinter library.
 ## How to Run the App
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/modern-tkinter-calculator.git
+   git clone https://github.com/Sk50412/Calculator.git
+
+2. Navigate to project folder
+   ```bash
+   cd Calculator
+
+3. Run the file
+   ```bash
+   py calculator.py
+   
